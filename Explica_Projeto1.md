@@ -5,7 +5,7 @@ O Projeto1 mostra a relação de aprovação ou reprovação e seus respectivos 
 Análise feita em Regressão Logistica.
 
 #-- ✔
-Explicativo das funções:
+Explicativo das funções.
 
 Pandas -> pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. 
 Em particular, oferece estruturas e operações para manipular  tabelas numéricas e séries temporais.
