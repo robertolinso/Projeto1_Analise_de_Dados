@@ -38,6 +38,7 @@ Eleicao.csv - Banco de dados
 
 #--- ✔
 Passo a passo:
+
 1º Execute IDE.exe (Selecione e clique no arquivo).
 
 2º Com a IDE "aberta" ao lado esquerdo selecione o arquivo regressao_logistica_.ipynb
