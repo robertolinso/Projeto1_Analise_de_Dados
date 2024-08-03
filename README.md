@@ -1,7 +1,9 @@
 #-- Projeto1_Analise_de_Dados
+
 O Projeto1 mostra a relação de aprovação ou reprovação e seus respectivos e financiamentos em uma eleição. 
 Análise feita em Regressão Logistica.
-#--
+
+#-- ✔
 Explicativo das funções:
 
 Pandas -> pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. 
@@ -33,7 +35,8 @@ Veja:
 Arquivo executável IDE.exe
 regressao_logistica_.ipynb - Arquivo em linguagem Python 
 Eleicao.csv - Banco de dados
-#---
+
+#--- ✔
 Passo a passo:
 1º Execute IDE.exe (Selecione e clique no arquivo).
 
@@ -46,18 +49,18 @@ e precione a figura seta  ► (Run)  na barra de ferramentas. Esta ação, irá 
 
 Desta forma o projeto será apresentado quadro a quadro ou celula por celula.
 
-#--
+#-- ✔
 Na primeira celula, o comentário referente a Regressão Logística.
 Obs. o caracter  #  hashtag ou cerquilha no inicio da linha, define que é uma linha de comentário.    
 
-#--
+#-- ✔
 Na segunda celula, há a importação de bibliotecas para a execução das funções necessárias.  
 
-#--
+#-- ✔
 Na terceira celula apresenta o conteúdo da base de dados, Nome do candidato, Situação (1 eleito / 0 não eleito)
 e Despesas da campanha. 
 
-#--
+#-- ✔
 Na quarta célula, será apresentado um gráfico de disperção com despesas e situação (1 eleito ou 0 Não eleito),
 donde no eixo horizontal mostra os investimentos dos candidatos.
 
@@ -65,25 +68,28 @@ Será mostrado no gráfico, uma linha de separação dos eleitos ou não referen
 a estatistica mostrando a contagem (count) do total de participantes Zero (0) e Um (1) representando eleitos ou não eleitos.
 Obs A linha é mostrada na execução da Oitava célula.
 
-#--
+#-- ✔
 Na quinta célula, visualizamos o coeficiente de correlação entre as "Despesas" e "Situação (Eleito 1 - Sim / 0 - Não"
 para ver se existe uma relação e se essa relação é positiva e a força da corelação entre ambas.
 Podemos verificar o resultado na sua força de direção, se elá é Forte, Moderada ou Fraca.
 Mais detalhes neste assunto ref. ao tema Regressão linear  - Correlação.
 
-#--
+#-- ✔
 Na sexta celula é demostrado um tratamento de dados, separação de variaveis dependente da indepentente
 Transformação de X para o formato de matriz adicionando um novo eixo (newaxis)
 
-#--
+#-- ✔
 Na sétima celula é criado o modelo de regressão logística
 
-#--
+#-- ✔
 Na oitava celula é criado um gráfico de dispersão demonstrando os candidatos eleitos ou não e a linha
 de melhor ajuste para o modelo na regressão logistica. 
 
-#*-*-*-*-*-*-
-Portanto, caso queiram ampliar este estudo para a previsão de uma outra situação, sejam bem-vindos.
-Até mais!
+#-- ✔
+Portanto, caso queiram ampliar este estudo para a previsão de uma outra situação.
+
+Sejam bem-vindos. 
+
+Até mais! 😉
 
    
