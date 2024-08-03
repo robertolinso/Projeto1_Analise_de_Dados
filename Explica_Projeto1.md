@@ -1,6 +1,7 @@
 #-- Projeto1_Analise_de_Dados
 
 O Projeto1 mostra a relação de aprovação ou reprovação e seus respectivos e financiamentos em uma eleição. 
+
 Análise feita em Regressão Logistica.
 
 #-- ✔
@@ -91,7 +92,7 @@ Na oitava celula é criado um gráfico de dispersão demonstrando os candidatos 
 de melhor ajuste para o modelo na regressão logistica. 
 
 #-- ✔
-Portanto, caso queiram ampliar este estudo para a previsão de uma outra situação.
+Portanto, está aberto este estudo para sugestão ha melhorias de previsão no gráfico.
 
 Sejam bem-vindos. 
 
