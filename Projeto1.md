@@ -32,13 +32,15 @@ Disponibilizado a IDE -> (Integrated Development Environment). Um ambiente de de
 usuário gráfica (GUI).
 
 Veja:
-Arquivo executável - IDE.exe
 
-regressao_logistica_.ipynb - Arquivo em linguagem Python 
+Editor executável - IDE.exe
 
-Eleicao.csv - Banco de dados
+Arquivo em linguagem Python - regressao_logistica_.ipynb 
+
+Banco de dados - Eleicao.csv
 
 #--- ✔
+
 Passo a passo:
 
 1º Execute IDE.exe (Selecione e clique no arquivo).
