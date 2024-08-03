@@ -32,8 +32,10 @@ Disponibilizado a IDE -> (Integrated Development Environment). Um ambiente de de
 usuário gráfica (GUI).
 
 Veja:
-Arquivo executável IDE.exe
+Arquivo executável - IDE.exe
+
 regressao_logistica_.ipynb - Arquivo em linguagem Python 
+
 Eleicao.csv - Banco de dados
 
 #--- ✔
