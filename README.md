@@ -36,8 +36,11 @@ Eleicao.csv - Banco de dados
 #---
 Passo a passo:
 1º Execute IDE.exe (Selecione e clique no arquivo).
+
 2º Com a IDE "aberta" ao lado esquerdo selecione o arquivo regressao_logistica_.ipynb
+
 3º É apresentado as céluas de linha de código.
+
 4º De cima para baixo, selecione a segunda celula (quadrante com as linhas de código).
 e precione a figura seta  ► (Run)  na barra de ferramentas. Esta ação, irá executar as funções de da célula. 
 
