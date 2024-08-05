@@ -1,8 +1,15 @@
+#-- Exercício: Contribuindo em um Projeto Open Source no GitHub
+
+#-- Aula Ministrada Pela Instrutora Elidiana Andrade
 
 #-- Projeto1_Analise_de_Dados
-O Projeto1 mostra a relação de aprovação ou reprovação e seus respectivos e financiamentos em uma eleição. 
+
+O Projeto1 mostra a relação de aprovação ou reprovação e seus respectivos financiamentos em uma eleição. 
+
 Análise feita em Regressão Logistica.
+
 #--
+
 Explicativo das funções:
 
 Pandas -> pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. 
