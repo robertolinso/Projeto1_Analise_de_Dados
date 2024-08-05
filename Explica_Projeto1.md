@@ -1,3 +1,9 @@
+#-- Exercício: Contribuindo em um Projeto Open Source no GitHub
+
+#-- Aula Ministrada Pela Instrutora Elidiana Andrade 
+
+#-- Plataforma EAD  https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/microsoft-copilot-ai&tab=undefined&moduleId=undefined      
+
 #-- Projeto1_Analise_de_Dados
 
 O Projeto1 mostra a relação de aprovação ou reprovação e seus respectivos e financiamentos em uma eleição. 
@@ -28,7 +34,7 @@ e/ou binárias.
 Para a pesquisa há um banco de dados no formato .CSV com dados ao qual será processado os resultados
 almejados.
 
-Disponibilizado a IDE -> (Integrated Development Environment). Um ambiente de desenvolvimento integrado (IDE)
+Disponibilizado a IDE -> (Integrated Development Environment). Um ambiente de desenvolvimento integrado, (IDE)
 é um software para criar aplicações que combina ferramentas comuns de desenvolvedor em uma única interface de 
 usuário gráfica (GUI).
 
@@ -57,7 +63,7 @@ Desta forma o projeto será apresentado quadro a quadro ou celula por celula.
 
 #-- ✔
 Na primeira celula, o comentário referente a Regressão Logística.
-Obs. o caracter  #  hashtag ou cerquilha no inicio da linha, define que é uma linha de comentário.    
+Obs. o caracter  #  hashtag ou cerquilha no inicio de cada linha, define que é uma linha de comentário.    
 
 #-- ✔
 Na segunda celula, há a importação de bibliotecas para a execução das funções necessárias.  
